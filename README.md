@@ -1,6 +1,8 @@
 
 # K-Means Clustering Visualization
 
+online_retail_II - https://archive.ics.uci.edu/dataset/502/online+retail+ii
+
 This project demonstrates the implementation of **K-Means Clustering** in Python, including data preprocessing, model training, and visualization of clusters using Matplotlib and Seaborn.
 
 ## 📌 Features
@@ -12,7 +14,7 @@ This project demonstrates the implementation of **K-Means Clustering** in Python
 ## 🛠️ Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/kmeans-clustering-visualization.git
+   git clone https://github.com/ayush2170/customer-segmentation-kmeans/tree/main
    cd kmeans-clustering-visualization
 
 2. Install dependencies:
